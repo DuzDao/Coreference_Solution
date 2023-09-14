@@ -1,6 +1,7 @@
 #### Table of contents
 1. [Introduction](#intro)
-2. [Members](#mem)
+2. [Data Sample](#sample)
+3. [Members](#mem)
 
 Course Project [Course Name: Data collection and preprocessing]
 
@@ -10,6 +11,10 @@ To meet the requirements of the course, we performed the following tasks:
   - Designed the label and labeling process.
   - Analysed the data.
   - Build models.
+
+# <a name="sample"></a> Data Sample
+
+
 
 # <a name="mem"></a> Members
 My team:
