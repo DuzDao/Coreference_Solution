@@ -3,8 +3,6 @@
 2. [Data Sample](#sample)
 3. [Members](#mem)
 
-Course Project [Course Name: Data collection and preprocessing]
-
 # <a name="intro"></a> Project For Course: Data Collection and Preprocessing
 To meet the requirements of the course, we performed the following tasks:
   - Created a dataset named ViCoref (Vietnamese Dataset For Coreference Resolution - 7937 entities).
